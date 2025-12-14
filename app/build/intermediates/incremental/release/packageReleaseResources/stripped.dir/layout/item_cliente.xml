@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="8dp"
+    android:layout_marginVertical="4dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="2dp"
+    app:cardBackgroundColor="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="?attr/selectableItemBackground">
+
+        <!-- En-tête avec initiales et infos -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <!-- Cercle des initiales -->
+            <TextView
+                android:id="@+id/tvInitials"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:background="@drawable/circle_background"
+                android:gravity="center"
+                android:text="JD"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <!-- Informations client -->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_marginStart="12dp">
+
+                <TextView
+                    android:id="@+id/tvName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="John Doe"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#5D4A8A"/>
+
+                <TextView
+                    android:id="@+id/tvPhone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="+216 12 345 678"
+                    android:textSize="14sp"
+                    android:textColor="#666666"
+                    android:layout_marginTop="2dp"/>
+
+                <TextView
+                    android:id="@+id/tvEmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="email@example.com"
+                    android:textSize="14sp"
+                    android:textColor="#666666"
+                    android:layout_marginTop="2dp"/>
+
+            </LinearLayout>
+
+            <!-- Statut actif/inactif -->
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switchStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true" />
+
+        </LinearLayout>
+
+        <!-- Préférences -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="12dp"
+            android:padding="8dp"
+            android:background="#F3EDFF"
+            android:backgroundTint="#F3EDFF">
+
+            <TextView
+                android:id="@+id/tvHairType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cheveux: Bouclés"
+                android:textSize="13sp"
+                android:textColor="#5D4A8A"/>
+
+            <TextView
+                android:id="@+id/tvHairLength"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Longueur: Longs"
+                android:textSize="13sp"
+                android:textColor="#5D4A8A"
+                android:layout_marginTop="2dp"/>
+
+            <TextView
+                android:id="@+id/tvFavoriteService"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Service favori: Coupe"
+                android:textSize="13sp"
+                android:textColor="#5D4A8A"
+                android:layout_marginTop="2dp"/>
+
+        </LinearLayout>
+
+        <!-- Boutons d'action -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="12dp">
+
+            <Button
+                android:id="@+id/btnViewProfile"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_marginEnd="4dp"
+                android:text="Voir Profil"
+                android:textSize="14sp"
+                android:background="#8B6BC9"
+                android:textColor="@android:color/white"
+                android:padding="0dp"/>
+
+            <Button
+                android:id="@+id/btnAppointment"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_marginStart="4dp"
+                android:text="Rendez-vous"
+                android:textSize="14sp"
+                android:background="#5D4A8A"
+                android:textColor="@android:color/white"
+                android:padding="0dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

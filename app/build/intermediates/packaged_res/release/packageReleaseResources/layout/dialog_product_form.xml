@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_blanc"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Titre avec emoji - SIMPLIFIÉ -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="📦 Informations produit"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/violet_fonce"
+            android:layout_marginBottom="20dp" />
+
+        <!-- Nom du produit -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:hintTextColor="@color/violet_moyen"
+            app:startIconDrawable="@drawable/ic_product"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etProductName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nom du produit *"
+                android:inputType="textCapWords"
+                android:textColor="@color/texte_noir" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Marque -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:hintTextColor="@color/violet_moyen"
+            app:startIconDrawable="@drawable/ic_brand"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etProductBrand"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Marque *"
+                android:inputType="textCapWords"
+                android:textColor="@color/texte_noir" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Prix et Stock en ligne -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="12dp">
+
+            <!-- Prix -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginEnd="8dp"
+                app:boxStrokeColor="@color/violet_moyen"
+                app:hintTextColor="@color/violet_moyen"
+                app:startIconDrawable="@drawable/ic_price"
+                app:startIconTint="@color/violet_moyen">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etProductPrice"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Prix (€) *"
+                    android:inputType="numberDecimal"
+                    android:textColor="@color/texte_noir" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Stock -->
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:boxStrokeColor="@color/violet_moyen"
+                app:hintTextColor="@color/violet_moyen"
+                app:startIconDrawable="@drawable/ic_stock"
+                app:startIconTint="@color/violet_moyen">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etProductStock"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Quantité *"
+                    android:inputType="number"
+                    android:textColor="@color/texte_noir" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+
+        <!-- Catégorie -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:hintTextColor="@color/violet_moyen"
+            app:startIconDrawable="@drawable/ic_category"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etProductCategory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Catégorie"
+                android:inputType="text"
+                android:textColor="@color/texte_noir" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Description -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:hintTextColor="@color/violet_moyen"
+            app:startIconDrawable="@drawable/ic_description"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etProductDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Description"
+                android:inputType="textMultiLine"
+                android:minLines="3"
+                android:maxLines="5"
+                android:textColor="@color/texte_noir" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Note - SIMPLIFIÉ -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="* Champs obligatoires"
+            android:textSize="12sp"
+            android:textColor="@color/texte_gris"
+            android:layout_marginTop="8dp" />
+
+    </LinearLayout>
+</ScrollView>

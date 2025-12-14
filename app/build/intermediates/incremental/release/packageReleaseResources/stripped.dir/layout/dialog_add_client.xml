@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ajouter un Client"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/texte_noir"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- Nom -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:endIconMode="clear_text"
+            app:startIconDrawable="@android:drawable/ic_menu_edit"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editNom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nom"
+                android:inputType="textCapWords"
+                android:textColor="@color/texte_noir"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Prénom -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:endIconMode="clear_text"
+            app:startIconDrawable="@android:drawable/ic_menu_edit"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editPrenom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Prénom"
+                android:inputType="textCapWords"
+                android:textColor="@color/texte_noir"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Téléphone -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:endIconMode="clear_text"
+            app:startIconDrawable="@android:drawable/stat_sys_phone_call"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editTelephone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Téléphone"
+                android:inputType="phone"
+                android:textColor="@color/texte_noir"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Type de cheveux -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:endIconMode="clear_text"
+            app:startIconDrawable="@android:drawable/ic_menu_edit"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editTypeCheveux"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Type de cheveux"
+                android:textColor="@color/texte_noir"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Longueur des cheveux -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:endIconMode="clear_text"
+            app:startIconDrawable="@android:drawable/ic_menu_view"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editLongueurCheveux"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Longueur des cheveux"
+                android:textColor="@color/texte_noir"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Service favori -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            app:boxStrokeColor="@color/violet_moyen"
+            app:endIconMode="clear_text"
+            app:startIconDrawable="@android:drawable/star_on"
+            app:startIconTint="@color/violet_moyen">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editServiceFavori"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Service favori"
+                android:textColor="@color/texte_noir"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Statut actif -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Client actif"
+                android:textSize="16sp"
+                android:textColor="@color/texte_noir"/>
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/switchActif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                app:thumbTint="@android:color/white"
+                app:trackTint="@color/btn_violet"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etClient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom du client" />
+
+    <EditText
+        android:id="@+id/etPrestation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Prestation"
+        android:layout_marginTop="12dp"/>
+
+    <EditText
+        android:id="@+id/etHeure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Heure (ex: 10:00)"
+        android:layout_marginTop="12dp"/>
+
+</LinearLayout>

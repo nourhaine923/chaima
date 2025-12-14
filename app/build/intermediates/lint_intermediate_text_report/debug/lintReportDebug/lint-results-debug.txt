@@ -1,0 +1,2 @@
+C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\lint-baseline.xml: Information: 11 errors and 611 warnings were filtered out because they are listed in the baseline file, lint-baseline.xml [LintBaseline]
+0 errors, 0 warnings (11 errors, 611 warnings filtered by baseline lint-baseline.xml)

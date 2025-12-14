@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.6.0" type="incidents">
+
+    <incident
+        id="SimilarGradleDependency"
+        severity="informational"
+        message="There are multiple dependencies androidx.swiperefreshlayout:swiperefreshlayout but with different version">
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="36"
+            column="32"
+            startOffset="2018"
+            endLine="36"
+            endColumn="137"
+            endOffset="2123"/>
+    </incident>
+
+    <incident
+        id="SimilarGradleDependency"
+        severity="informational"
+        message="There are multiple dependencies androidx.swiperefreshlayout:swiperefreshlayout but with different version">
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="37"
+            column="23"
+            startOffset="2146"
+            endLine="37"
+            endColumn="135"
+            endOffset="2258"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.core:core-ktx than 1.12.0 is available: 1.17.0">
+        <fix-replace
+            description="Change to 1.17.0"
+            family="Update versions"
+            oldString="1.12.0"
+            replacement="1.17.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="4"
+            column="11"
+            startOffset="52"
+            endLine="4"
+            endColumn="19"
+            endOffset="60"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test.ext:junit than 1.1.5 is available: 1.3.0">
+        <fix-replace
+            description="Change to 1.3.0"
+            family="Update versions"
+            oldString="1.1.5"
+            replacement="1.3.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="6"
+            column="17"
+            startOffset="94"
+            endLine="6"
+            endColumn="24"
+            endOffset="101"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.test.espresso:espresso-core than 3.5.1 is available: 3.7.0">
+        <fix-replace
+            description="Change to 3.7.0"
+            family="Update versions"
+            oldString="3.5.1"
+            replacement="3.7.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="7"
+            column="16"
+            startOffset="117"
+            endLine="7"
+            endColumn="23"
+            endOffset="124"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.6.2 is available: 2.10.0">
+        <fix-replace
+            description="Change to 2.10.0"
+            family="Update versions"
+            oldString="2.6.2"
+            replacement="2.10.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="8"
+            column="23"
+            startOffset="147"
+            endLine="8"
+            endColumn="30"
+            endOffset="154"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.activity:activity-compose than 1.8.1 is available: 1.12.1">
+        <fix-replace
+            description="Change to 1.12.1"
+            family="Update versions"
+            oldString="1.8.1"
+            replacement="1.12.1"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="9"
+            column="19"
+            startOffset="173"
+            endLine="9"
+            endColumn="26"
+            endOffset="180"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose:compose-bom than 2023.03.00 is available: 2025.12.00">
+        <fix-replace
+            description="Change to 2025.12.00"
+            family="Update versions"
+            oldString="2023.03.00"
+            replacement="2025.12.00"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="10"
+            column="14"
+            startOffset="194"
+            endLine="10"
+            endColumn="26"
+            endOffset="206"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.ui:ui than 1.5.4 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.4"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="11"
+            column="6"
+            startOffset="212"
+            endLine="11"
+            endColumn="13"
+            endOffset="219"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.ui:ui-graphics than 1.5.4 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.4"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="12"
+            column="14"
+            startOffset="233"
+            endLine="12"
+            endColumn="21"
+            endOffset="240"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.ui:ui-tooling than 1.5.4 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.4"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="13"
+            column="13"
+            startOffset="253"
+            endLine="13"
+            endColumn="20"
+            endOffset="260"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.ui:ui-tooling-preview than 1.5.4 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.4"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="14"
+            column="20"
+            startOffset="280"
+            endLine="14"
+            endColumn="27"
+            endOffset="287"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.material3:material3 than 1.1.2 is available: 1.4.0">
+        <fix-replace
+            description="Change to 1.4.0"
+            family="Update versions"
+            oldString="1.1.2"
+            replacement="1.4.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="15"
+            column="13"
+            startOffset="300"
+            endLine="15"
+            endColumn="20"
+            endOffset="307"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.ui:ui-test-junit4 than 1.5.4 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.4"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="11"
+            column="6"
+            startOffset="212"
+            endLine="11"
+            endColumn="13"
+            endOffset="219"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose.ui:ui-test-manifest than 1.5.4 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.4"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="11"
+            column="6"
+            startOffset="212"
+            endLine="11"
+            endColumn="13"
+            endOffset="219"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.swiperefreshlayout:swiperefreshlayout than 1.1.0 is available: 1.2.0">
+        <fix-replace
+            description="Change to 1.2.0"
+            family="Update versions"
+            oldString="1.1.0"
+            replacement="1.2.0"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="17"
+            column="22"
+            startOffset="350"
+            endLine="17"
+            endColumn="29"
+            endOffset="357"/>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.application than 8.2.0 is available: 8.13.1. (There is also a newer version of 8.2.𝑥 available, if upgrading to 8.13.1 is difficult: 8.2.2)">
+        <fix-alternatives>
+            <fix-replace
+                description="Change to 8.13.1"
+                family="Update versions"
+                oldString="8.2.0"
+                replacement="8.13.1"
+                priority="0"/>
+            <fix-replace
+                description="Change to 8.2.2"
+                family="Update versions"
+                robot="true"
+                independent="true"
+                oldString="8.2.0"
+                replacement="8.2.2"
+                priority="0"/>
+        </fix-alternatives>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="2"
+            column="7"
+            startOffset="17"
+            endLine="2"
+            endColumn="14"
+            endOffset="24"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of org.jetbrains.kotlin.android than 1.9.0 is available: 1.9.20">
+        <fix-replace
+            description="Change to 1.9.20"
+            family="Update versions"
+            oldString="1.9.0"
+            replacement="1.9.20"
+            priority="0"/>
+        <location
+            file="$HOME/OneDrive - Ministere de l&apos;Enseignement Superieur et de la Recherche Scientifique/Bureau/mobile/BeautyManager/gradle/libs.versions.toml"
+            line="3"
+            column="10"
+            startOffset="34"
+            endLine="3"
+            endColumn="17"
+            endOffset="41"/>
+    </incident>
+
+</incidents>

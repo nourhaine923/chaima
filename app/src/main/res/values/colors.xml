@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ===== COULEURS DU THÈME BEAUTY MANAGER ===== -->
+    <color name="primary_color">#8B6BC9</color>
+    <color name="primary_dark">#5D4A8A</color>
+    <color name="accent_color">#FF6B93</color>
+    <color name="background_color">#FAF8FF</color>
+
+    <!-- ===== COULEURS PRINCIPALES (MATERIAL DESIGN) ===== -->
+    <color name="colorPrimary">#8B6BC9</color>
+    <color name="colorPrimaryDark">#5D4A8A</color>
+    <color name="colorAccent">#FF6B93</color>
+
+    <!-- Compatibilité Material Design -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- ===== COULEURS BASIQUES ===== -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ===== POUR VOS LAYOUTS EXISTANTS ===== -->
+    <color name="bg_principal">#FAF8FF</color>
+    <color name="bg_blanc">#FFFFFFFF</color>
+    <color name="violet_moyen">#8B6BC9</color>
+    <color name="texte_gris">#666666</color>
+    <color name="md_green">#4CAF50</color>
+    <color name="statut_retard">#F44336</color>
+    <color name="mauve_pastel">#F3EDFF</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="divider_light">#1F000000</color>
+
+    <!-- ===== COULEURS POUR BOUTONS ===== -->
+    <color name="btn_primary">#8B6BC9</color>
+    <color name="btn_violet">#5D4A8A</color>
+    <color name="btn_background">#8B6BC9</color>
+    <color name="btn_border">#5D4A8A</color>
+
+    <!-- ===== COULEURS DE TEXTE ===== -->
+    <color name="texte_noir">#333333</color>
+    <color name="text_primary">#5D4A8A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="texte_gris_light">#BDBDBD</color>
+
+    <!-- ===== COULEURS D'ARRIÈRE-PLAN ===== -->
+    <color name="couleur_appbar">#8B6BC9</color>
+    <color name="bg_gris">#FAF8FF</color>
+    <color name="bg_mauve_clair">#F3EDFF</color>
+    <color name="bg_search">#FFFFFFFF</color>
+    <color name="background">#FAF8FF</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_dark">#757575</color>
+
+    <!-- ===== COULEURS DE CARTES ===== -->
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="card_shadow">#1E000000</color>
+
+    <!-- ===== COULEURS DE SÉPARATEURS ===== -->
+    <color name="divider">#E0E0E0</color>
+    <color name="btn_border_gris">#E0E0E0</color>
+
+    <!-- ===== COULEURS D'ÉTAT ===== -->
+    <color name="success_color">#4CAF50</color>
+    <color name="warning_color">#FF9800</color>
+    <color name="error_color">#F44336</color>
+    <color name="red_error">#F44336</color>
+    <color name="info_blue">#2196F3</color>
+
+    <color name="statut_actif">#4CAF50</color>
+    <color name="statut_inactif">#F44336</color>
+    <color name="status_confirmed">#4CAF50</color>
+    <color name="status_pending">#FF9800</color>
+    <color name="status_cancelled">#F44336</color>
+    <color name="status_completed">#2196F3</color>
+
+    <!-- ===== COULEURS POUR STOCK ===== -->
+    <color name="stock_low">#FF5252</color>
+    <color name="stock_medium">#FF9800</color>
+    <color name="stock_high">#4CAF50</color>
+        <!-- Couleurs principales -->
+        <color name="violet_fonce">#5D4A8A</color>
+
+
+        <!-- Boutons -->
+        <color name="btn_secondary">#5D4A8A</color>
+    <!-- ===== COULEURS POUR SWIPE ===== -->
+    <color name="swipe_color_1">#FF4081</color>
+    <color name="swipe_color_2">#FF5722</color>
+    <color name="swipe_color_3">#2196F3</color>
+    <color name="swipe_color_4">#4CAF50</color>
+
+    <!-- ===== PALETTE VIOLETTE ===== -->
+    <color name="violet_clair">#F3E5F5</color>
+    <color name="button_primary">#8B6BC9</color>
+    <color name="button_secondary">#5D4A8A</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:label="Beauty Manager"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <!-- PAS de android:icon pour l'instant -->
+
+        <!-- Écran de connexion (écran principal) -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Dashboard -->
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
+
+        <!-- Gestion prestations -->
+        <activity
+            android:name=".GestionPrestationsActivity"
+            android:exported="false" />
+
+        <!-- Préférences client -->
+        <activity
+            android:name=".PreferencesClientActivity"
+            android:exported="false" />
+
+        <!-- Gestion rendez-vous -->
+        <activity
+            android:name=".GestionRendezVousActivity"
+            android:exported="false" />
+
+        <!-- Facturation -->
+        <activity
+            android:name=".FacturationActivity"
+            android:exported="false" />
+        <!-- Ajoutez cette activity avant la balise de fermeture </application> -->
+        <activity
+            android:name=".ManageInventoryActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "566473202010",
+    "firebase_url": "https://beautymanager-12345-fdd30-default-rtdb.firebaseio.com",
+    "project_id": "beautymanager-12345-fdd30",
+    "storage_bucket": "beautymanager-12345-fdd30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566473202010:android:c6f4181a1273bbdd3cbb63",
+        "android_client_info": {
+          "package_name": "com.example.beautymanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUMRhE4QOrePAU1HNJoU7SEpqkVTY_MHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

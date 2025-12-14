@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/item_facture.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_facture.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/dialog_add_client.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_client.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_preferences_client.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_preferences_client.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_gestion_rendezvous.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_gestion_rendezvous.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/dialog_product_form.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_product_form.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/item_cliente.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_cliente.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/item_inventory.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_inventory.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/dialog_add_facture.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_facture.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_dashboard.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/dialog_add_prestation.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_prestation.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_gestion_prestations.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_gestion_prestations.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_statistics.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/dialog_add_product.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_product.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/item_rendezvous.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_rendezvous.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_statistics_simple.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_statistics_simple.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_facturation.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_facturation.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/activity_manage_inventory.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_manage_inventory.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/dialog_add_product_simple.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_product_simple.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeReleaseResources-41:/layout/item_prestation.xml",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_prestation.xml"
+    }
+]

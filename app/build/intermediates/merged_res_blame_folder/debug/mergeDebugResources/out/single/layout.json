@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\dialog_add_facture.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\dialog_add_facture.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_gestion_rendezvous.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_gestion_rendezvous.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\dialog_add_product_simple.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\dialog_add_product_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\item_rendezvous.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\item_rendezvous.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_gestion_prestations.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_gestion_prestations.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\item_prestation.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\item_prestation.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\dialog_add_client.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\dialog_add_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_preferences_client.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_preferences_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_manage_inventory.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_manage_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\item_facture.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\item_facture.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\dialog_add_prestation.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\dialog_add_prestation.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\dialog_product_form.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\dialog_product_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\dialog_add_product.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\dialog_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_statistics_simple.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_statistics_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\item_cliente.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\item_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\item_inventory.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\item_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_statistics.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-mergeDebugResources-41:/layout/dialog_add_rendezvous.xml",
+        "source": "com.example.beautymanager.app-main-44:/layout/dialog_add_rendezvous.xml"
+    },
+    {
+        "merged": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-mergeDebugResources-41:\\layout\\activity_facturation.xml",
+        "source": "C:\\Users\\21694\\.gradle\\daemon\\8.7\\com.example.beautymanager.app-main-44:\\layout\\activity_facturation.xml"
+    }
+]

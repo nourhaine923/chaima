@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nouvelle Facture"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#5D4A8A"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- Numéro de facture -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="#8B6BC9"
+            app:startIconDrawable="@android:drawable/ic_menu_edit"
+            app:startIconTint="#8B6BC9">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editNumeroFacture"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Numéro de facture"
+                android:inputType="text"
+                android:textColor="#1A237E"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Client -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="#8B6BC9"
+            app:startIconDrawable="@android:drawable/ic_menu_myplaces"
+            app:startIconTint="#8B6BC9">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editClientNom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nom du client"
+                android:inputType="text"
+                android:textColor="#1A237E"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Montant -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            app:boxStrokeColor="#8B6BC9"
+            app:startIconDrawable="@android:drawable/ic_dialog_info"
+            app:startIconTint="#8B6BC9">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editMontant"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Montant (DT)"
+                android:inputType="numberDecimal"
+                android:textColor="#1A237E"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Statut -->
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            app:boxStrokeColor="#8B6BC9"
+            app:startIconDrawable="@android:drawable/ic_menu_agenda"
+            app:startIconTint="#8B6BC9">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editStatut"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Statut (Payée, En attente, En retard)"
+                android:inputType="text"
+                android:text="En attente"
+                android:textColor="#1A237E"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Info -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="La date sera automatiquement définie à aujourd'hui"
+            android:textSize="12sp"
+            android:textColor="#666"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

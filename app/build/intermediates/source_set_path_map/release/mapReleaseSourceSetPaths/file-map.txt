@@ -1,0 +1,45 @@
+com.example.beautymanager.app-jetified-play-services-basement-18.1.0-0 C:\Users\msi\.gradle\caches\transforms-4\06140fcbb9c3f1277fef2231a387eaa9\transformed\jetified-play-services-basement-18.1.0\res
+com.example.beautymanager.app-jetified-viewpager2-1.1.0-beta02-1 C:\Users\msi\.gradle\caches\transforms-4\07e45e188a8ecb0cf687c7819875dff3\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.example.beautymanager.app-databinding-runtime-8.6.0-2 C:\Users\msi\.gradle\caches\transforms-4\1711e8e11d95fdcaa03e814c35b296e1\transformed\databinding-runtime-8.6.0\res
+com.example.beautymanager.app-jetified-annotation-experimental-1.3.0-3 C:\Users\msi\.gradle\caches\transforms-4\191121d4ca32288abeceeed182275a3c\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.beautymanager.app-jetified-customview-poolingcontainer-1.0.0-4 C:\Users\msi\.gradle\caches\transforms-4\1dd428a542f7d8e4c69b9fa940653caa\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.beautymanager.app-jetified-lifecycle-runtime-ktx-2.6.1-5 C:\Users\msi\.gradle\caches\transforms-4\1eb008da205df37f7ce2398d7fc39f69\transformed\jetified-lifecycle-runtime-ktx-2.6.1\res
+com.example.beautymanager.app-browser-1.4.0-6 C:\Users\msi\.gradle\caches\transforms-4\27745e93c9d220a96f305993ae42ea15\transformed\browser-1.4.0\res
+com.example.beautymanager.app-jetified-lifecycle-service-2.6.1-7 C:\Users\msi\.gradle\caches\transforms-4\2b72c8b3f0412c19f1492f9d8f985d43\transformed\jetified-lifecycle-service-2.6.1\res
+com.example.beautymanager.app-jetified-firebase-common-20.4.2-8 C:\Users\msi\.gradle\caches\transforms-4\38fcea301169362d52259db81a337038\transformed\jetified-firebase-common-20.4.2\res
+com.example.beautymanager.app-jetified-play-services-base-18.0.1-9 C:\Users\msi\.gradle\caches\transforms-4\3a0850514a7b0b651d16e194c0685810\transformed\jetified-play-services-base-18.0.1\res
+com.example.beautymanager.app-jetified-core-ktx-1.12.0-10 C:\Users\msi\.gradle\caches\transforms-4\3b7cfe026c24a46b8a8dcc9c3661933e\transformed\jetified-core-ktx-1.12.0\res
+com.example.beautymanager.app-cardview-1.0.0-11 C:\Users\msi\.gradle\caches\transforms-4\41fc75cf6113e30a5a88673570bd357d\transformed\cardview-1.0.0\res
+com.example.beautymanager.app-lifecycle-viewmodel-2.6.1-12 C:\Users\msi\.gradle\caches\transforms-4\42402a955743605e01462b23418816a2\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.beautymanager.app-jetified-startup-runtime-1.1.1-13 C:\Users\msi\.gradle\caches\transforms-4\469df65e57e4434dfce3d7ba686ed330\transformed\jetified-startup-runtime-1.1.1\res
+com.example.beautymanager.app-lifecycle-livedata-core-2.6.1-14 C:\Users\msi\.gradle\caches\transforms-4\4fead19ed55ebf26606534f790c7a896\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.beautymanager.app-jetified-emoji2-1.2.0-15 C:\Users\msi\.gradle\caches\transforms-4\525fd85e51143375047cf4394e033b67\transformed\jetified-emoji2-1.2.0\res
+com.example.beautymanager.app-recyclerview-1.3.2-16 C:\Users\msi\.gradle\caches\transforms-4\5a2fd012b5c524286aa4e01518a3be71\transformed\recyclerview-1.3.2\res
+com.example.beautymanager.app-jetified-appcompat-resources-1.6.1-17 C:\Users\msi\.gradle\caches\transforms-4\5ea30cfe057ca9dd62aee2287c0fe48d\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.beautymanager.app-core-1.12.0-18 C:\Users\msi\.gradle\caches\transforms-4\70e63cd10757c38076b683c372b9ce2c\transformed\core-1.12.0\res
+com.example.beautymanager.app-jetified-emoji2-views-helper-1.2.0-19 C:\Users\msi\.gradle\caches\transforms-4\78c79eba9a893f5810918fbd828333f9\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.beautymanager.app-coordinatorlayout-1.1.0-20 C:\Users\msi\.gradle\caches\transforms-4\84c0503fcb7b2ee7c1cf5fdc78f2200d\transformed\coordinatorlayout-1.1.0\res
+com.example.beautymanager.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-21 C:\Users\msi\.gradle\caches\transforms-4\8a643529069ca7f9ce3f39f549d6a1cb\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.beautymanager.app-constraintlayout-2.1.4-22 C:\Users\msi\.gradle\caches\transforms-4\8e4805c2213b627f3a200c1a76f0a2d5\transformed\constraintlayout-2.1.4\res
+com.example.beautymanager.app-transition-1.2.0-23 C:\Users\msi\.gradle\caches\transforms-4\91c379da70aa736f387d33f452ad7974\transformed\transition-1.2.0\res
+com.example.beautymanager.app-lifecycle-livedata-2.6.1-24 C:\Users\msi\.gradle\caches\transforms-4\9ad7c509382f0b308a012911ed406196\transformed\lifecycle-livedata-2.6.1\res
+com.example.beautymanager.app-jetified-profileinstaller-1.3.0-25 C:\Users\msi\.gradle\caches\transforms-4\9b9576472d05fb78a96353cb44f41387\transformed\jetified-profileinstaller-1.3.0\res
+com.example.beautymanager.app-core-runtime-2.2.0-26 C:\Users\msi\.gradle\caches\transforms-4\9d08cff5dc5d03b7c14541628a16da77\transformed\core-runtime-2.2.0\res
+com.example.beautymanager.app-drawerlayout-1.1.1-27 C:\Users\msi\.gradle\caches\transforms-4\a9d1ae7942843411b3f7b665b7516c58\transformed\drawerlayout-1.1.1\res
+com.example.beautymanager.app-databinding-adapters-8.6.0-28 C:\Users\msi\.gradle\caches\transforms-4\abf553ab44fc7d2696c8e909a75b8edf\transformed\databinding-adapters-8.6.0\res
+com.example.beautymanager.app-appcompat-1.6.1-29 C:\Users\msi\.gradle\caches\transforms-4\b0cc635ce22c510952ab9d58fef91db1\transformed\appcompat-1.6.1\res
+com.example.beautymanager.app-lifecycle-runtime-2.6.1-30 C:\Users\msi\.gradle\caches\transforms-4\bf033ff80a7c962bfbd428e34deb1e9f\transformed\lifecycle-runtime-2.6.1\res
+com.example.beautymanager.app-fragment-1.3.6-31 C:\Users\msi\.gradle\caches\transforms-4\de210434428857253951e66fb41f4be6\transformed\fragment-1.3.6\res
+com.example.beautymanager.app-material-1.11.0-32 C:\Users\msi\.gradle\caches\transforms-4\df1984fa8ed89a1f4ed9c553c2e65ef2\transformed\material-1.11.0\res
+com.example.beautymanager.app-jetified-lifecycle-process-2.6.1-33 C:\Users\msi\.gradle\caches\transforms-4\e86b807a87f9c167ec3cea05bf200bfd\transformed\jetified-lifecycle-process-2.6.1\res
+com.example.beautymanager.app-jetified-activity-1.8.0-34 C:\Users\msi\.gradle\caches\transforms-4\ecaa2c5a4af7938248036d48389a9915\transformed\jetified-activity-1.8.0\res
+com.example.beautymanager.app-jetified-savedstate-1.2.1-35 C:\Users\msi\.gradle\caches\transforms-4\f18322f31a983452c4ad6a22f3922e0f\transformed\jetified-savedstate-1.2.1\res
+com.example.beautymanager.app-swiperefreshlayout-1.1.0-36 C:\Users\msi\.gradle\caches\transforms-4\f607c4bad256ec908a935a12f0c56a7b\transformed\swiperefreshlayout-1.1.0\res
+com.example.beautymanager.app-pngs-37 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\build\generated\res\pngs\release
+com.example.beautymanager.app-res-38 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\build\generated\res\processReleaseGoogleServices
+com.example.beautymanager.app-resValues-39 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\build\generated\res\resValues\release
+com.example.beautymanager.app-packageReleaseResources-40 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.beautymanager.app-packageReleaseResources-41 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.beautymanager.app-release-42 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.beautymanager.app-main-43 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\src\main\res
+com.example.beautymanager.app-release-44 C:\Users\msi\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\mobile\BeautyManager\app\src\release\res

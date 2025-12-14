@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_item_rendezvous.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_rendezvous.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_border_button_selected.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/border_button_selected.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_dialog_add_prestation.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_prestation.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_dialog_add_facture.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_facture.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_description.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_description.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_dialog_product_form.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_product_form.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_badge_en_attente.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/badge_en_attente.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_item_prestation.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_prestation.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_receipt.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_receipt.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_bg_red_circle.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/bg_red_circle.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_empty_inventory.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_empty_inventory.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_border_button_disabled.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/border_button_disabled.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_brand.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_brand.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_back.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_bg_stock_badge.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/bg_stock_badge.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_chevron_left.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_close.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_stock.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_stock.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/menu_menu_inventory.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/menu/menu_inventory.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_product_default.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_product_default.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_group.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_group.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_service.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_service.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_facturation.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_facturation.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_login.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_search.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_edittext_background.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_border_button_pressed.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/border_button_pressed.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_item_facture.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_facture.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_product.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_product.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_bg_dialog.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_rounded_bg_statut.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/rounded_bg_statut.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_new.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_new.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_preferences_client.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_preferences_client.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_statistics.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_bg_rounded_corner.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/bg_rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_dialog_add_client.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_client.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_filter.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_more_vert.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_dialog_add_product_simple.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_product_simple.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_price.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_price.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_category.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_category.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_manage_inventory.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_manage_inventory.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_bg_search.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_empty_clients.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_empty_clients.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_item_inventory.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_inventory.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_gestion_rendezvous.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_gestion_rendezvous.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_add.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_notifications.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_circle_background.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_edittext_background_focused.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/edittext_background_focused.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_dialog_add_product.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/dialog_add_product.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_item_cliente.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/item_cliente.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_statistics_simple.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_statistics_simple.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_edittext_background_error.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/edittext_background_error.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_ic_error.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/layout_activity_gestion_prestations.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/layout/activity_gestion_prestations.xml"
+    },
+    {
+        "merged": "com.example.beautymanager.app-release-42:/drawable_border_button.xml.flat",
+        "source": "com.example.beautymanager.app-main-43:/drawable/border_button.xml"
+    }
+]
